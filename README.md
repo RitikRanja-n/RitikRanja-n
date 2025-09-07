@@ -1,7 +1,5 @@
 # 💫 About Me:
-I'm a Computer Science Engineering student at Haldia Institute of Technology<br>
-Passionate about Web Development and building responsive, user-friendly applications<br>
-Currently working with React, TypeScript, and modern web technologies
+I completed my B.Tech in Computer Science Engineering from Haldia Institute of Technology in 2025. Currently, I am working as a Full Stack Developer, specializing in backend development with .NET and frontend development using React, TypeScript, and Ant Design. I am passionate about building responsive, scalable, and user-friendly web applications.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-ranjan-7b7799241/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajritik21)
